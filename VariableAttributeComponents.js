@@ -22,3 +22,5 @@ ReactDOM.render(
   <Owl />,
   document.getElementById('app')
 );
+
+// Renders picture of an owl 
