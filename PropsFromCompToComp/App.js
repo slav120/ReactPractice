@@ -22,3 +22,13 @@ ReactDOM.render(
   <App />, 
   document.getElementById('app')
 );
+
+// Gets the props from the greeting component 
+
+
+// Render THIS 
+
+
+// Hullo and, "Welcome to The Newzz," "On Line!"
+// Hi there, Ruby!
+// Latest: where is my phone?
