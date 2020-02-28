@@ -15,3 +15,4 @@ class NavBar extends React.Component {
   }
 }
 
+// We are going to render the NavBar inside the ProfilePage component

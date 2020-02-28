@@ -14,3 +14,6 @@ class ProfilePage extends React.Component {
     );
   }
 }
+
+// Calling the NavBar component inside of our ProfilePage Class
+// Calling a class inside of another one 
