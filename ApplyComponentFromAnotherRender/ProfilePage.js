@@ -17,5 +17,8 @@ class ProfilePage extends React.Component {
   }
 }
 
+ReactDOM.render(< ProfilePage />, document.getElementById('app'))
+
+
 // Calling the NavBar component inside of our ProfilePage Class
 // Calling a class inside of another one 
