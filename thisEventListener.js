@@ -12,3 +12,5 @@ class Button extends React.Component {
 }
 
 ReactDOM.render(<Button />, document.getElementById('app'));
+
+// .this work with the event listener (button) when we click it, it will run the function from above in the JSX 
