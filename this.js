@@ -13,3 +13,6 @@ class MyName extends React.Component {
 }
 
 ReactDOM.render(<MyName />, document.getElementById('app'));
+
+
+//.this will call the function from above inside our JSX. so it render with info passed by the function 
