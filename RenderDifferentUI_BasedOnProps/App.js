@@ -9,7 +9,7 @@ class App extends React.Component {
         <h1>
           Hullo and, "Welcome to The Newzz," "On Line!"
         </h1>
-        <Greeting name="Alison" />
+        <Greeting name="Alison" signedIn={true}/>
         <article>
           Latest:  where is my phone?
         </article>
