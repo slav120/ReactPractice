@@ -6,11 +6,3 @@ export class Greeting extends React.Component {
   }
 }
 
-
-// Render THIS 
-
-
-
-// Hullo and, "Welcome to The Newzz," "On Line!"
-// Hi there, Alison!
-// Latest: where is my phone?
