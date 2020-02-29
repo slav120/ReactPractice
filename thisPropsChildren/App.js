@@ -22,3 +22,13 @@ ReactDOM.render(
   <App />, 
   document.getElementById('app')
 );
+
+
+
+// //  RENDERS 
+
+// Favorite Living Musicians
+// Sachiko M
+// Harvey Sid Fisher
+// Favorite Living Cat Musician
+// Nora the Piano Cat
