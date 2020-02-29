@@ -9,10 +9,10 @@ class Talker extends React.Component {
       speech += 'blah ';
     }
     alert(speech);
-	}
+  }
   
   render() {
-    return <Button />;
+    return <Button talk={this.talk} />;
   }
 }
 
